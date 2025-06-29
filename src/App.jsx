@@ -1,7 +1,8 @@
-import "./App.css";
+// import "./App.css";
+import CubeScroll from "./components/CubeScroll.jsx";
 
 function App() {
-  return <div>Cube Rotation And Snap On Scroll</div>;
+  return <CubeScroll />;
 }
 
 export default App;
